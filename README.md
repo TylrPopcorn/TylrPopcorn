@@ -1,5 +1,10 @@
 @TylrPopcorn
 -----
+Hello. My name is **Tyler**. 
+
+I like to spend majority of my time coding and thinking outside of the box. I enjoy things related to game development and web development. I find the two topics very interesting and fun. 
+
+
 This is where I put some of my public code. This would include things I have just learned,
 have worked on, sharing to the public, etc.
 
