@@ -2,7 +2,7 @@
 -----
 Hello. 
 
-I like to spend the majority of my time coding and thinking outside of the box. I enjoy things related to game development and web development. I find the two topics very interesting and fun. I am currently pursuing a career as a Full-Stack Web Developer.
+I like to spend the majority of my time coding and thinking outside of the box. I enjoy things related to game development and web development. I find the two topics very interesting and fun.
 
 
 This is where I put some of my public code. This would include things I have just learned,
